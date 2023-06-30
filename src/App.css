@@ -1,0 +1,26 @@
+.calculator {
+  width: 320px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #5A5A5A ;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.keypad button {
+  width: 75px;
+  height: 75px;
+  margin: 2px;
+  background-color: #D3D3D3;
+}
+
+input {
+  width: 92.5%;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: right;
+}
+
+h1{
+    color : white;
+}
